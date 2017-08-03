@@ -1,0 +1,15 @@
+/data*
+/Data Files
+/wallet*
+/bin/
+/ACCOUNTS.txt
+/*.jar
+/*.iml
+*.iml
+
+log.txt
+log.txt.*
+settings.json
+gui_settings.json
+*.zip
+/*.theme
